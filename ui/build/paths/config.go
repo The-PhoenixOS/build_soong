@@ -120,6 +120,7 @@ var Configuration = map[string]PathConfig{
 	"python3.8":      Allowed,
 	"python3.9":      Allowed,
 	"python3.10":     Allowed,
+	"python3.11":     Allowed,
 	"yes":            Allowed,
 
 	// Host toolchain is removed. In-tree toolchain should be used instead.
